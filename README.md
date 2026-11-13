@@ -3,6 +3,7 @@
 A visual journey and curated gallery of technical workshops, industry masterclasses, hands-on hackathons, and developer conferences attended by **[Vachan U S](https://github.com/vachan18)**.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-vachan18-181717?style=for-the-badge&logo=github)](https://github.com/vachan18)
+[![Live Gallery](https://img.shields.io/badge/Live%20Gallery-GitHub%20Pages-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://vachan18.github.io/Workshop-gallery/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vachan18.github.io)
 [![Events Attended](https://img.shields.io/badge/Events%20Showcased-4%20Key%20Programs-00C853?style=for-the-badge)](#table-of-contents)
 
